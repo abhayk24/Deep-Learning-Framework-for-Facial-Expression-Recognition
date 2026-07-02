@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/Python-3.10+-blue.svg">
 <img src="https://img.shields.io/badge/TensorFlow-2.x-orange.svg">
 <img src="https://img.shields.io/badge/PyTorch-2.x-red.svg">
-<img src="https://img.shields.io/badge/OpenCV-ComputerVision-green.svg">
 <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg">
 </p>
 
@@ -107,7 +106,6 @@ EmotionVision/
 - Python
 - TensorFlow / Keras
 - PyTorch
-- OpenCV
 - NumPy
 - Pandas
 - Matplotlib
